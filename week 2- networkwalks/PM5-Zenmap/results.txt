@@ -1,0 +1,22 @@
+PM5 – Network Scanning using Zenmap
+
+Tool Used: Zenmap (Nmap 7.99)
+
+Scan Type: Ping Scan
+
+Target Network: 192.168.179.0/24
+
+Total IP Addresses Checked: 256
+
+Active Hosts Discovered: 3
+
+My Laptop IP Address: 192.168.179.59
+
+MAC Address: 60-A5-E2-E1-40-33
+
+Evidence Collected:
+1. IP Configuration
+2. Ping Scan
+3. Host Details
+4. Network Topology
+5. MAC Address
